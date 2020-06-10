@@ -1,4 +1,4 @@
-This is cognitive game in which you have to guess the color produced by the given RGB combination.
+A cognitive game in which you have to guess the color produced by the given RGB combination.
 
 Play the game on https://ultimatergbcolorgame.herokuapp.com/
 
